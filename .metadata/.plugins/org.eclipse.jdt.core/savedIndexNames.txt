@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+/Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/.metadata/.plugins/org.eclipse.jdt.core
+951996637.index
+1603703173.index
+251638124.index
+2951544225.index
+3749785126.index

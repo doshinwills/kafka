@@ -1,0 +1,21 @@
+package com.doshin.kafkaproducer;
+
+import java.util.Properties;
+
+import org.apache.kafka.clients.producer.Producer;
+import org.apache.kafka.clients.producer.ProducerConfig;
+
+/**
+ * Hello world!
+ *
+ */
+public class App {
+	public static void main(String[] args) {
+
+		Properties props = new Properties();
+		props.put("zk.connect", "127.0.0.1:2181");
+		props.put("serializer.class", "kafka.serializer.StringEncoder");
+		ProducerConfig config = new ProducerConfig(props);
+		Producer<String, String> producer = new Producer<String, String>(config);
+	}
+}

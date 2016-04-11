@@ -1,0 +1,326 @@
+2016-04-08 12:15:41,111 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkatest/pom.xml
+2016-04-08 12:15:41,989 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshin:kafkatest:0.0.1-SNAPSHOT @ /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkatest/pom.xml.
+2016-04-08 12:15:42,180 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafkatest/src/main/java
+2016-04-08 12:15:42,182 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafkatest/src/test/java
+2016-04-08 12:15:45,378 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-04-08 12:15:47,612 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:15:47,613 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkatest/src/main/resources
+2016-04-08 12:15:47,615 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:15:47,615 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkatest/src/test/resources
+2016-04-08 12:16:18,954 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/pom.xml
+2016-04-08 12:16:19,007 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshin:kafkaproducer:0.0.1-SNAPSHOT @ /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/pom.xml.
+2016-04-08 12:16:19,046 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafkaproducer/src/main/java
+2016-04-08 12:16:19,049 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafkaproducer/src/test/java
+2016-04-08 12:16:19,085 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-04-08 12:16:19,278 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:16:19,278 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 12:16:19,279 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:16:19,279 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 12:16:46,797 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/pom.xml
+2016-04-08 12:16:46,838 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshin:kafkaconsumer:0.0.1-SNAPSHOT @ /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/pom.xml.
+2016-04-08 12:16:46,879 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafkaconsumer/src/main/java
+2016-04-08 12:16:46,881 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafkaconsumer/src/test/java
+2016-04-08 12:16:46,907 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-04-08 12:16:47,075 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:16:47,076 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 12:16:47,077 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:16:47,077 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 12:17:13,764 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshin:kafkaconsumer:0.0.1-SNAPSHOT @ /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/pom.xml.
+2016-04-08 12:17:14,680 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexus.etrade.com/content/groups/public/org/apache/kafka/kafka-clients/0.9.0.0/kafka-clients-0.9.0.0.pom
+2016-04-08 12:17:14,782 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.etrade.com/content/groups/public/org/apache/kafka/kafka-clients/0.9.0.0/kafka-clients-0.9.0.0.pom
+2016-04-08 12:17:14,879 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexus.etrade.com/content/groups/public/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.pom
+2016-04-08 12:17:14,980 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.etrade.com/content/groups/public/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.pom
+2016-04-08 12:17:15,080 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexus.etrade.com/content/groups/public/org/slf4j/slf4j-parent/1.7.6/slf4j-parent-1.7.6.pom
+2016-04-08 12:17:15,276 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.etrade.com/content/groups/public/org/slf4j/slf4j-parent/1.7.6/slf4j-parent-1.7.6.pom
+2016-04-08 12:17:15,433 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexus.etrade.com/content/groups/public/org/xerial/snappy/snappy-java/1.1.1.7/snappy-java-1.1.1.7.pom
+2016-04-08 12:17:15,543 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.etrade.com/content/groups/public/org/xerial/snappy/snappy-java/1.1.1.7/snappy-java-1.1.1.7.pom
+2016-04-08 12:17:15,638 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexus.etrade.com/content/groups/public/net/jpountz/lz4/lz4/1.2.0/lz4-1.2.0.pom
+2016-04-08 12:17:15,738 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.etrade.com/content/groups/public/net/jpountz/lz4/lz4/1.2.0/lz4-1.2.0.pom
+2016-04-08 12:17:15,862 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexus.etrade.com/content/groups/public/org/apache/kafka/kafka-clients/0.9.0.0/kafka-clients-0.9.0.0.jar
+2016-04-08 12:17:17,361 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.etrade.com/content/groups/public/org/apache/kafka/kafka-clients/0.9.0.0/kafka-clients-0.9.0.0.jar
+2016-04-08 12:17:17,471 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexus.etrade.com/content/groups/public/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar
+2016-04-08 12:17:17,577 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.etrade.com/content/groups/public/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar
+2016-04-08 12:17:17,708 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexus.etrade.com/content/groups/public/org/xerial/snappy/snappy-java/1.1.1.7/snappy-java-1.1.1.7.jar
+2016-04-08 12:17:18,685 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.etrade.com/content/groups/public/org/xerial/snappy/snappy-java/1.1.1.7/snappy-java-1.1.1.7.jar
+2016-04-08 12:17:18,777 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexus.etrade.com/content/groups/public/net/jpountz/lz4/lz4/1.2.0/lz4-1.2.0.jar
+2016-04-08 12:17:19,067 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.etrade.com/content/groups/public/net/jpountz/lz4/lz4/1.2.0/lz4-1.2.0.jar
+2016-04-08 12:17:19,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:17:19,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 12:17:19,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:17:19,213 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 12:17:20,378 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:17:20,378 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 12:17:20,379 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:17:20,379 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 12:17:23,774 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshin:kafkaproducer:0.0.1-SNAPSHOT @ /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/pom.xml.
+2016-04-08 12:17:23,830 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:17:23,831 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 12:17:23,832 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:17:23,832 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 12:17:24,968 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:17:24,968 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 12:17:24,969 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 12:17:24,969 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:16:55,526 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:16:55,526 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 13:16:55,527 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:16:55,527 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 13:16:55,531 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:16:55,531 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:16:55,532 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:16:55,532 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:17:06,058 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:17:06,059 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:17:06,060 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:17:06,060 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:17:32,001 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:17:32,001 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:17:32,002 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:17:32,002 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:21:16,997 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:21:16,997 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:21:16,998 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:21:16,998 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:21:22,261 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:21:22,262 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:21:22,263 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:21:22,263 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:21:49,230 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:21:49,230 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:21:49,231 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:21:49,231 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:22:56,998 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.doshin:kafkaproducer:0.0.1-SNAPSHOT @ /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/pom.xml.
+2016-04-08 13:22:57,053 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:22:57,053 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:22:57,056 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:22:57,056 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:24:56,182 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:24:56,182 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:24:56,183 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:24:56,183 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:25:03,823 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:25:03,823 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:25:03,823 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:25:03,823 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:25:11,902 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:25:11,902 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:25:11,903 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:25:11,903 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:25:16,521 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:25:16,521 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:25:16,522 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:25:16,522 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:26:50,914 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:26:50,914 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:26:50,915 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:26:50,915 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:26:58,463 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:26:58,463 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:26:58,464 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:26:58,464 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:39:02,515 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:39:02,515 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:39:02,516 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:39:02,516 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:39:05,829 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:39:05,829 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:39:05,830 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:39:05,830 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:39:20,777 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:39:20,777 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:39:20,778 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:39:20,778 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:39:26,949 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:39:26,950 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:39:26,950 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:39:26,950 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:40:39,575 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:40:39,575 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:40:39,575 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:40:39,575 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:41:05,400 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:41:05,400 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:41:05,401 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:41:05,401 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:41:12,152 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2016-04-08 13:41:12,378 [main] ERROR c.g.t.t.d.PublishedGradleVersions - Cannot download published Gradle versions.
+java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:1.8.0_05]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345) ~[na:1.8.0_05]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[na:1.8.0_05]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[na:1.8.0_05]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.8.0_05]
+	at java.net.Socket.connect(Socket.java:589) ~[na:1.8.0_05]
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:649) ~[na:1.8.0_05]
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173) ~[na:1.8.0_05]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180) ~[na:1.8.0_05]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432) ~[na:1.8.0_05]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527) ~[na:1.8.0_05]
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:275) ~[na:1.8.0_05]
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:371) ~[na:1.8.0_05]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191) ~[na:1.8.0_05]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1103) ~[na:1.8.0_05]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:997) ~[na:1.8.0_05]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177) ~[na:1.8.0_05]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1511) ~[na:1.8.0_05]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1439) ~[na:1.8.0_05]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254) ~[na:1.8.0_05]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.downloadVersionInformation(PublishedGradleVersions.java:167) [com.gradleware.tooling.utils_0.6.1.v201509101146.jar:na]
+	at com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions.create(PublishedGradleVersions.java:134) [com.gradleware.tooling.utils_0.6.1.v201509101146.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper.create(PublishedGradleVersionsWrapper.java:40) [org.eclipse.buildship.core_1.0.5.v20150922-2202.jar:na]
+	at org.eclipse.buildship.core.util.gradle.PublishedGradleVersionsWrapper.<init>(PublishedGradleVersionsWrapper.java:35) [org.eclipse.buildship.core_1.0.5.v20150922-2202.jar:na]
+	at org.eclipse.buildship.core.CorePlugin.createPublishedGradleVersions(CorePlugin.java:166) [org.eclipse.buildship.core_1.0.5.v20150922-2202.jar:na]
+	at org.eclipse.buildship.core.CorePlugin.registerServices(CorePlugin.java:139) [org.eclipse.buildship.core_1.0.5.v20150922-2202.jar:na]
+	at org.eclipse.buildship.core.CorePlugin.start(CorePlugin.java:102) [org.eclipse.buildship.core_1.0.5.v20150922-2202.jar:na]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:771) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.8.0_05]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:764) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:721) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:941) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:318) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.container.Module.doStart(Module.java:571) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.container.Module.start(Module.java:439) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:327) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:36) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:398) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:352) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:344) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) [na:1.8.0_05]
+	at java.lang.Class.getDeclaredConstructors0(Native Method) [na:1.8.0_05]
+	at java.lang.Class.privateGetDeclaredConstructors(Class.java:2658) [na:1.8.0_05]
+	at java.lang.Class.getConstructor0(Class.java:2964) [na:1.8.0_05]
+	at java.lang.Class.newInstance(Class.java:403) [na:1.8.0_05]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.loadBundleActivator(BundleContextImpl.java:755) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:706) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:941) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:318) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.container.Module.doStart(Module.java:571) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.container.Module.start(Module.java:439) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:327) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:402) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:352) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:344) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) [na:1.8.0_05]
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:573) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:174) [org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar:na]
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905) [org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar:na]
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243) [org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar:na]
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55) [org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar:na]
+	at org.eclipse.ui.internal.console.ConsolePageParticipantExtension.createDelegate(ConsolePageParticipantExtension.java:72) [org.eclipse.ui.console_3.6.100.v20150822-1912.jar:na]
+	at org.eclipse.ui.internal.console.ConsoleManager.getPageParticipants(ConsoleManager.java:455) [org.eclipse.ui.console_3.6.100.v20150822-1912.jar:na]
+	at org.eclipse.ui.internal.console.ConsoleView.doCreatePage(ConsoleView.java:317) [org.eclipse.ui.console_3.6.100.v20150822-1912.jar:na]
+	at org.eclipse.ui.part.PageBookView.createPage(PageBookView.java:422) [org.eclipse.ui.workbench_3.107.0.v20150825-2206.jar:na]
+	at org.eclipse.ui.part.PageBookView.partActivated(PageBookView.java:768) [org.eclipse.ui.workbench_3.107.0.v20150825-2206.jar:na]
+	at org.eclipse.ui.internal.console.ConsoleView$4.run(ConsoleView.java:398) [org.eclipse.ui.console_3.6.100.v20150822-1912.jar:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.cocoa.macosx.x86_64_3.104.1.v20150825-0743.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135) [org.eclipse.swt.cocoa.macosx.x86_64_3.104.1.v20150825-0743.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4024) [org.eclipse.swt.cocoa.macosx.x86_64_3.104.1.v20150825-0743.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3700) [org.eclipse.swt.cocoa.macosx.x86_64_3.104.1.v20150825-0743.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127) [org.eclipse.e4.ui.workbench.swt_0.13.0.v20150504-0621.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337) [org.eclipse.core.databinding.observable_1.5.0.v20150422-0725.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018) [org.eclipse.e4.ui.workbench.swt_0.13.0.v20150504-0621.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156) [org.eclipse.e4.ui.workbench_1.3.0.v20150531-1948.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:654) [org.eclipse.ui.workbench_3.107.0.v20150825-2206.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337) [org.eclipse.core.databinding.observable_1.5.0.v20150422-0725.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:598) [org.eclipse.ui.workbench_3.107.0.v20150825-2206.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.107.0.v20150825-2206.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139) [org.eclipse.ui.ide.application_1.1.0.v20150422-0725.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.300.v20150423-1356.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235) [org.eclipse.osgi_3.10.101.v20150820-1432.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[na:1.8.0_05]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669) [org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608) [org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515) [org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar:na]
+2016-04-08 13:42:23,569 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:42:23,569 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:42:23,569 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:42:23,569 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:42:36,391 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:42:36,391 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:42:36,392 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:42:36,392 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:43:42,492 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:43:42,493 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:43:42,493 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:43:42,493 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:44:50,193 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:44:50,193 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:44:50,194 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:44:50,194 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:46:03,711 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:46:03,711 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:46:03,712 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:46:03,712 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:46:13,188 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:46:13,188 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:46:13,189 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:46:13,189 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:46:36,885 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:46:36,885 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:46:36,886 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:46:36,886 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:47:04,087 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:47:04,087 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:47:04,088 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:47:04,088 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:47:43,490 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:47:43,491 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:47:43,491 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:47:43,491 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:48:10,255 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:48:10,255 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/main/resources
+2016-04-08 13:48:10,256 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:48:10,256 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaproducer/src/test/resources
+2016-04-08 13:49:43,116 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:49:43,116 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 13:49:43,116 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:49:43,116 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 13:49:48,341 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:49:48,341 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 13:49:48,342 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:49:48,342 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 13:51:16,442 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:51:16,442 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 13:51:16,443 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:51:16,443 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 13:51:32,357 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:51:32,357 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 13:51:32,358 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:51:32,358 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 13:52:04,432 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:52:04,432 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 13:52:04,432 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:52:04,432 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 13:52:39,531 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:52:39,531 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 13:52:39,532 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:52:39,532 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 13:53:25,538 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:53:25,538 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 13:53:25,538 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:53:25,538 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 13:53:48,685 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:53:48,685 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 13:53:48,685 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:53:48,686 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources
+2016-04-08 13:53:58,937 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:53:58,937 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/main/resources
+2016-04-08 13:53:58,937 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-08 13:53:58,937 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/gwills/Documents/Learning/z-Adhoc/Kafka/workspace/kafkaconsumer/src/test/resources

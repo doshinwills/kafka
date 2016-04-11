@@ -1,0 +1,5 @@
+package com.doshin.kafkaconsumer;
+
+public class Consumer {
+
+}
